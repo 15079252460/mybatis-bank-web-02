@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("second commit");
         System.out.println("thrid commit");
         System.out.println("hot-fix");
+        System.out.println("master test");
     }
 }
